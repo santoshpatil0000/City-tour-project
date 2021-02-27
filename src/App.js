@@ -5,7 +5,7 @@ import TourList from './components/navabar/TourList'
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <React.Fragment>
      <HeadingNav/> 
      <TourList/>

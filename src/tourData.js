@@ -1,7 +1,7 @@
 export const tourData = [
   {
     id: 1,
-    name: "new-york city-tour",
+    name: "new-york statue of liberty",
     city: "new-york",
     img: "./images/new-york.jpg",
     info:
@@ -9,7 +9,7 @@ export const tourData = [
   },
   {
     id: 2,
-    name: "paris city-tour",
+    name: "paris eiffel tower",
     city: "paris",
     img: "./images/paris.jpg",
     info:
@@ -17,7 +17,7 @@ export const tourData = [
   },
   {
     id: 3,
-    name: "london city-tour",
+    name: "london houses of parliment",
     city: "london",
     img: "./images/london.jpg",
     info:
@@ -25,7 +25,7 @@ export const tourData = [
   },
   {
     id: 4,
-    name: "tokyo city-tour",
+    name: "tokyo colourfull and dazzling night",
     city: "tokyo",
     img: "./images/tokyo.jpg",
     info:
